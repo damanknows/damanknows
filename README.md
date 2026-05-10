@@ -1,9 +1,9 @@
 # Hi, I'm Damanlovedeep Singh 👋
 
-2nd year CSE student at **VIT Bhopal** (Graduating 2027)  
+2nd year CSE student at **VIT Bhopal** (Graduating 2029)  
 Building towards: **DevSecOps Engineer at a Tier-1 financial firm**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/damanlovedeep-singh-5a61b037b)
+
 
 ---
 
@@ -35,9 +35,7 @@ Building towards: **DevSecOps Engineer at a Tier-1 financial firm**
 - **Mathematical Functions** — 34+ Python implementations from basic factorials to Riemann zeta function
 - **Java Learning** — OOP exercises and Spring Boot practice projects *(in progress)*
 
-## 📊 GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=damanknows&show_icons=true&theme=default&hide_border=true)
 
 ---
 *Open to internship opportunities and open source collaborations*
